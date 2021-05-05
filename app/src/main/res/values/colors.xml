@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    Author: Ambareen Shabnam Jawaheer
+        Student ID: S1903330      -->
+<resources>
+    <color name="color1">#FF03DAC5</color>
+    <color name="color2">#03A9F4</color>
+    <color name="color3">#536DFE</color>
+    <color name="color4">#085551</color>
+    <color name="color5">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E74C3C</color>
+    <color name="orange">#E67E22</color>
+    <color name="yellow">#F1C40F</color>
+
+
+
+</resources>

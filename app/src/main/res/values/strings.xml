@@ -1,0 +1,230 @@
+
+<resources>
+<string name="app_name">EarthQuake_MPD_2021</string>
+<string name="title_activity_dashboard">Welcome</string>
+<string name="title_home">Home</string>
+<string name="title_dashboard">Welcome</string>
+<string name="title_notifications">Notifications</string>
+<string name="internet_error_text">Please ensure you have an internet connection before using this application</string>
+<string name="style_map_json">
+   [
+  {
+    \"featureType\": \"administrative\",
+    \"stylers\": [
+      {
+        \"saturation\": \"-100\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"administrative\",
+    \"elementType\": \"geometry\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"administrative.country\",
+    \"elementType\": \"geometry.fill\",
+    \"stylers\": [
+      {
+        \"weight\": 2.5
+      }
+    ]
+  },
+  {
+    \"featureType\": \"administrative.country\",
+    \"elementType\": \"geometry.stroke\",
+    \"stylers\": [
+      {
+        \"weight\": 3.5
+      }
+    ]
+  },
+  {
+    \"featureType\": \"administrative.land_parcel\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"administrative.neighborhood\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"administrative.province\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"landscape\",
+    \"stylers\": [
+      {
+        \"saturation\": -100
+      },
+      {
+        \"lightness\": 65
+      },
+      {
+        \"visibility\": \"on\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"poi\",
+    \"stylers\": [
+      {
+        \"saturation\": -100
+      },
+      {
+        \"lightness\": \"50\"
+      },
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"poi\",
+    \"elementType\": \"labels.text\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road\",
+    \"stylers\": [
+      {
+        \"saturation\": \"-100\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road\",
+    \"elementType\": \"labels\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road\",
+    \"elementType\": \"labels.icon\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road.arterial\",
+    \"stylers\": [
+      {
+        \"lightness\": \"30\"
+      },
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road.arterial\",
+    \"elementType\": \"labels\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road.highway\",
+    \"stylers\": [
+      {
+        \"visibility\": \"simplified\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road.highway\",
+    \"elementType\": \"labels\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"road.local\",
+    \"stylers\": [
+      {
+        \"lightness\": \"40\"
+      },
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"transit\",
+    \"stylers\": [
+      {
+        \"saturation\": -100
+      },
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  },
+  {
+    \"featureType\": \"water\",
+    \"elementType\": \"geometry\",
+    \"stylers\": [
+      {
+        \"hue\": \"#ffff00\"
+      },
+      {
+        \"saturation\": -97
+      },
+      {
+        \"lightness\": -25
+      }
+    ]
+  },
+  {
+    \"featureType\": \"water\",
+    \"elementType\": \"labels\",
+    \"stylers\": [
+      {
+        \"saturation\": -100
+      },
+      {
+        \"lightness\": -25
+      }
+    ]
+  },
+  {
+    \"featureType\": \"water\",
+    \"elementType\": \"labels.text\",
+    \"stylers\": [
+      {
+        \"visibility\": \"off\"
+      }
+    ]
+  }
+]
+    </string>
+</resources>
